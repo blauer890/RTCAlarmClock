@@ -1,0 +1,6 @@
+ds3231.c:10:6:alarmOneInit	40	static
+ds3231.c:27:6:setAlarmOne	40	static
+ds3231.c:42:6:setTime	40	static
+ds3231.c:55:6:getTime	40	static
+ds3231.c:74:9:decToBcd	16	static
+ds3231.c:78:5:bcdToDec	16	static
